@@ -1,0 +1,1 @@
+<img src = "img/image.png" alt = "piano with 24 notes image">
