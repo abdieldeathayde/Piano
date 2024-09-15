@@ -59,6 +59,18 @@ body {
     margin: 0 -20px 0 -20px;
 }
 
+.white-key, note {
+    color: #000;
+    display: grid;
+    align-items: flex-end;
+}
+
+.black-key, note {
+    color: #fff;
+    display: grid;
+    align-items: flex-end;
+}
+
 @media screen and (min-width: 821px) and (max-width: 1024px){
     .piano-keys {
         width: 4rem;
